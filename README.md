@@ -96,20 +96,3 @@ También tengo experiencia en desarrollo de escritorio con C# y .NET, y trabajo 
 
 ---
 
-### Contribuciones
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MishelGvea/MishelGvea/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MishelGvea/MishelGvea/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/MishelGvea/MishelGvea/output/github-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MishelGvea/MishelGvea/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MishelGvea/MishelGvea/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/MishelGvea/MishelGvea/output/github-snake.svg" />
-  </picture>
-</p>
